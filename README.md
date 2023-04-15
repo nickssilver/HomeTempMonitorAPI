@@ -1,4 +1,4 @@
-# HomeTempMonitorAPI
+# HomeTempMonitorAPI:tada:
 </hr>
 
 The "HomeTempMonitor" repository is a home automation web service that allows you to store and retrieve temperature data from different rooms of your house. With this service, you can easily build an API that your temperature sensors can send data to, and then retrieve or process the data as needed.
